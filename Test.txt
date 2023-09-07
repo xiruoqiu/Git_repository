@@ -1,3 +1,4 @@
 你好世界
 git is a distributed version control system
 git is  free system
+Git has a mutable index called stage
